@@ -1,0 +1,4 @@
+﻿global S2C 2000
+{
+	NotifyChat([in] string str);
+}

@@ -1,0 +1,15 @@
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\bin\Debug\netcoreapp3.1\ChattingCommon.deps.json
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\bin\Debug\netcoreapp3.1\ChattingCommon.dll
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\bin\Debug\netcoreapp3.1\ChattingCommon.pdb
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\bin\Debug\netcoreapp3.1\ProudDotNetClient.dll
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\bin\Debug\netcoreapp3.1\ProudDotNetServer.dll
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\bin\Debug\netcoreapp3.1\ProudDotNetClient.pdb
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\bin\Debug\netcoreapp3.1\ProudDotNetServer.pdb
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\obj\Debug\netcoreapp3.1\ChattingCommon.csproj.AssemblyReference.cache
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\obj\Debug\netcoreapp3.1\ChattingCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\obj\Debug\netcoreapp3.1\ChattingCommon.AssemblyInfoInputs.cache
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\obj\Debug\netcoreapp3.1\ChattingCommon.AssemblyInfo.cs
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\obj\Debug\netcoreapp3.1\ChattingCommon.csproj.CoreCompileInputs.cache
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\obj\Debug\netcoreapp3.1\ChattingCommon.csproj.CopyComplete
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\obj\Debug\netcoreapp3.1\ChattingCommon.dll
+C:\Users\cksuw\source\repos\Server-proud\ChattingCommon\obj\Debug\netcoreapp3.1\ChattingCommon.pdb
