@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d1czLMY4NWLx1BxoMktjI7RfUNNiAfTN6gwa//GoO/N7qymnx873SOoQRPc/DlPXpQrKqTqK+M1m5BaUrxZDBQ==",
+  "dgSpecHash": "h/QLJ2PcdfwgeTPWZASRuQsCooUSjbxu/B3pCYQC81xC+cVAy2239BTNXjNBIPXQioo0wo1ZHJfxgm5ZrW1Gmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingClient\\ChattingClient.csproj",
+  "projectFilePath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingClient\\Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

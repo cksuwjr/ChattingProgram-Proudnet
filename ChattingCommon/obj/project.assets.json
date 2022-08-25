@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\ChattingCommon.csproj",
-      "projectName": "ChattingCommon",
-      "projectPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\ChattingCommon.csproj",
+      "projectUniqueName": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\Common.csproj",
+      "projectName": "Common",
+      "projectPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\Common.csproj",
       "packagesPath": "C:\\Users\\cksuw\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\obj\\",
       "projectStyle": "PackageReference",

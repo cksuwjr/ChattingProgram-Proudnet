@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ChattingCommon/1.0.0": {
+      "Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/ChattingCommon.dll": {}
+          "bin/placeholder/Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ChattingCommon.dll": {}
+          "bin/placeholder/Common.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ChattingCommon/1.0.0": {
+    "Common/1.0.0": {
       "type": "project",
-      "path": "../ChattingCommon/ChattingCommon.csproj",
-      "msbuildProject": "../ChattingCommon/ChattingCommon.csproj"
+      "path": "../ChattingCommon/Common.csproj",
+      "msbuildProject": "../ChattingCommon/Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ChattingCommon >= 1.0.0"
+      "Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingClient\\ChattingClient.csproj",
-      "projectName": "ChattingClient",
-      "projectPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingClient\\ChattingClient.csproj",
+      "projectUniqueName": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingClient\\Client.csproj",
+      "projectName": "Client",
+      "projectPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingClient\\Client.csproj",
       "packagesPath": "C:\\Users\\cksuw\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingClient\\obj\\",
       "projectStyle": "PackageReference",
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\ChattingCommon.csproj": {
-              "projectPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\ChattingCommon.csproj"
+            "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\Common.csproj": {
+              "projectPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\Common.csproj"
             }
           }
         }

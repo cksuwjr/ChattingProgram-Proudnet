@@ -4,12 +4,12 @@
     "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingServer\\ChattingServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\ChattingCommon.csproj": {
+    "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\ChattingCommon.csproj",
-        "projectName": "ChattingCommon",
-        "projectPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\ChattingCommon.csproj",
+        "projectUniqueName": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\Common.csproj",
         "packagesPath": "C:\\Users\\cksuw\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\obj\\",
         "projectStyle": "PackageReference",
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\ChattingCommon.csproj": {
-                "projectPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\ChattingCommon.csproj"
+              "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\Common.csproj": {
+                "projectPath": "C:\\Users\\cksuw\\source\\repos\\Server-proud\\ChattingCommon\\Common.csproj"
               }
             }
           }
