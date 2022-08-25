@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32428.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChattingCommon", "ChattingCommon\ChattingCommon.csproj", "{E8AF1427-0512-4E4F-B5C2-9DDAEE47D9C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "ChattingCommon\Common.csproj", "{E8AF1427-0512-4E4F-B5C2-9DDAEE47D9C6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChattingClient", "ChattingClient\ChattingClient.csproj", "{17D2A346-E2EA-4142-8614-94E58AF1FF25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "ChattingClient\Client.csproj", "{17D2A346-E2EA-4142-8614-94E58AF1FF25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChattingServer", "ChattingServer\ChattingServer.csproj", "{1747864D-7E25-4DA0-99F8-44279FCA2AD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "ChattingServer\Server.csproj", "{1747864D-7E25-4DA0-99F8-44279FCA2AD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
